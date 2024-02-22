@@ -6,7 +6,7 @@ class B implements Serializable
     int i;
     String s;
 
-     
+
     public B(int i,String s)
     {
         this.i = i;
